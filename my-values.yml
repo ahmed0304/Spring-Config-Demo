@@ -1,5 +1,4 @@
-"ConnectionStrings": {
-    "ICloseDbContext": "Server=localhost;Database=iclose;Username=postgres;Password=Admin$123"
-  }
+ConnectionStrings:
+  ICloseDbContext: Server=localhost;Database=iclose;Username=postgres;Password=Admin$123
 Value1: some-val
 Value2: another-val
