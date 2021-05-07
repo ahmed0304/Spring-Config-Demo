@@ -93,11 +93,3 @@ VerifiedMe:
 ChicagoTitle:
   BaseUrl: https://ctiwsstage.ctic.ca
   SystemToken: FF4D6B54-C44E-4BCA-9795-9B1E190E1F1E
-spring:
-  application:
-    name: my-values
-  cloud:
-    config:
-      uri: http://localhost:8888
-      validateCertificates: false
-      label: main
