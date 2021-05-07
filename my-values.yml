@@ -1,4 +1,6 @@
 ConnectionStrings:
   ICloseDbContext: Server=localhost;Database=iclose;Username=postgres;Password=Admin$123
+MyLog:
+  Enabled: true  
 Value1: some-val
 Value2: another-val
